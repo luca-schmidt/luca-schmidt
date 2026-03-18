@@ -2,7 +2,7 @@
 layout: about
 title: welcome
 permalink: /
-subtitle: "PhD Student (she / her) at <a href='https://uni-tuebingen.de'>University of Tübingen</a>"
+subtitle: "PhD Student (she/her) at <a href='https://uni-tuebingen.de'>University of Tübingen</a>"
 
 profile:
   align: right
@@ -29,6 +29,6 @@ I am a PhD student in the <a href="https://www.mlsustainableenergy.com/">Climate
 My research lies at the intersection of Machine Learning and Climate Science. In particular, I work with generative machine learning methods, such as diffusion models, for statistical downscaling and related climate modeling tasks. In my research, I am interested in analyzing the impacts of climate change on, for example wind power.
 
 From May to October 2025, I was a visiting researcher at <a href="https://mila.quebec/">Mila - Quebec Artificial Intelligence Institute
-</a> in Montréal, Canada, where I was part of the Rolnick Lab.
+</a> in Montréal, Canada, where I joined Rolnick Lab.
 
 Feel free to reach out in English or German if you are interested in climate modeling, machine learning for climate applications, or related topics.
