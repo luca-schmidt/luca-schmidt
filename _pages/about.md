@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: welcome
 permalink: /
 subtitle: "PhD Student (she / her) at <a href='https://uni-tuebingen.de'>University of Tübingen</a>"
 

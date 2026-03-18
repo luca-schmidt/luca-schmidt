@@ -3,16 +3,16 @@ layout: page
 permalink: /bio/
 title: bio
 nav: true
-nav_order: 9
+nav_order: 2
 ---
 
-## Education
+## education
 
-**PhD in Machine Learning**
-University of Tübingen & IMPRS for Intelligent Systems, 2023–2026
+#### PhD Candidate, 2023–2026
+*University of Tübingen & IMPRS-IS*
 
-**MSc in Data Science**
-University of Tübingen, 2020–2023
+#### MSc in Data Science, 2020–2023
+*University of Tübingen*
 
-**BSc in Economics**
-University of Mannheim, 2016–2019
+#### BSc in Economics, 2016–2019
+*University of Mannheim & Université catholique de Louvain*
