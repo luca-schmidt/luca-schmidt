@@ -458,18 +458,18 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/luca-schmidt/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%6C%75%63%61.%73%63%68%6D%69%64%74@%75%6E%69-%74%75%65%62%69%6E%67%65%6E.%64%65", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=BgUNOmIAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/lucamschmidt", "_blank");
         },
       },{
       id: 'light-theme',
