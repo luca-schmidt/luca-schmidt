@@ -24,11 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student within the <a href="https://www.mlsustainableenergy.com/">Climate, Energy and Machine Learning Systems</a> and the <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/start/">Methods of Machine Learning</a> research groups. I am also part of the <a href="https://imprs.is.mpg.de/">IMPRS International Max Planck Research School for Intelligent Systems</a>. 
+I am a PhD student in the <a href="https://www.mlsustainableenergy.com/">Climate, Energy and Machine Learning Systems</a> and the <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/start/">Methods of Machine Learning</a> research groups. I am also part of the <a href="https://imprs.is.mpg.de/"> International Max Planck Research School for Intelligent Systems (IMPRS)</a>. 
 
-My research is at the intersection of Machine Learning and Climate Science — in particular, I apply generative machine learning methods such as diffusion models to perform statistical downscaling. 
+My research lies at the intersection of Machine Learning and Climate Science. In particular, I work with generative machine learning methods, such as diffusion models, for statistical downscaling and related climate modeling tasks. In my research, I am interested in analyzing the impacts of climate change on, for example wind power.
 
-From May to October 2025, I visited <a href="https://mila.quebec/">Mila - Quebec Artificial Intelligence Institute
-</a> in Montréal, Canada.
+From May to October 2025, I was a visiting researcher at <a href="https://mila.quebec/">Mila - Quebec Artificial Intelligence Institute
+</a> in Montréal, Canada, where I was part of the Rolnick Lab.
 
-Feel free to reach out in English or German if you are interested in climate modeling or related topics.
+Feel free to reach out in English or German if you are interested in climate modeling, machine learning for climate applications, or related topics.
