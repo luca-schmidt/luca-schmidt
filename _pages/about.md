@@ -2,7 +2,7 @@
 layout: about
 title: welcome
 permalink: /
-subtitle: "PhD student (she/her) at <a href='https://uni-tuebingen.de'>University of Tübingen</a>"
+subtitle: "Final-year PhD student (she/her) at <a href='https://uni-tuebingen.de'>University of Tübingen</a>"
 
 profile:
   align: right
@@ -31,4 +31,4 @@ My research lies at the intersection of Machine Learning and Climate Science. Mo
 From May to October 2025, I joined Rolnick Lab as a visiting researcher at <a href="https://mila.quebec/">Mila - Quebec Artificial Intelligence Institute
 </a> in Montréal, Canada.
 
-Feel free to reach out in English or German if you are interested in any of these topics or in related research areas!
+Feel free to reach out if you are interested in any of these or related topics!

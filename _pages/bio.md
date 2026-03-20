@@ -12,7 +12,7 @@ _styles: >
 
 <br>
 
-#### PhD Candidate, 2023–2026
+#### PhD in Computer Science, 2023–2026
 *University of Tübingen & IMPRS-IS*
 
 #### MSc in Data Science, 2020–2023
