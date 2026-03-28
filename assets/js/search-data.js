@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "nav-contact",
-          title: "contact",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -415,14 +408,14 @@ ninja.data = [{
             },},{id: "news-our-paper-benchmarking-the-geographic-generalization-of-deep-learning-models-for-precipitation-downscaling-got-published-in-scientific-reports",
           title: 'Our paper Benchmarking the geographic generalization of deep learning models for precipitation downscaling...',
           description: "",
-          section: "News",},{id: "news-ml-emulators-have-the-potential-to-overcome-the-high-computational-costs-of-climate-models-yet-their-effective-use-remains-challenging-in-our-new-preprint-on-arxiv-ongoing-work-we-reflect-on-how-to-bridge-this-gap-if-you-are-working-in-one-or-both-of-these-fields-we-would-be-very-happy-to-connect-and-exchange-ideas-we-will-also-be-at-egu-in-vienna-and-climate-informatics-in-lausanne",
-          title: 'ML emulators have the potential to overcome the high computational costs of climate...',
+          section: "News",},{id: "news-ml-emulators-can-reduce-the-high-computational-costs-of-climate-models-but-using-them-effectively-remains-challenging-in-our-new-arxiv-preprint-we-explore-how-to-bridge-the-gap-between-ml-and-climate-science-if-you-work-in-either-field-we-d-be-happy-to-connect-we-ll-also-be-at-egu-in-vienna-and-climate-informatics-in-lausanne",
+          title: 'ML emulators can reduce the high computational costs of climate models, but using...',
           description: "",
-          section: "News",},{id: "news-i-ll-be-at-climate-informatics-in-lausanne-i-d-be-happy-to-discuss-how-to-make-climate-model-emulators-more-useful-for-applied-researchers",
-          title: 'I’ll be at Climate Informatics in Lausanne. I’d be happy to discuss how...',
+          section: "News",},{id: "news-i-ll-be-at-climate-informatics-in-lausanne-and-would-be-happy-to-chat-about-making-climate-model-emulators-more-useful-in-applied-research",
+          title: 'I’ll be at Climate Informatics in Lausanne and would be happy to chat...',
           description: "",
-          section: "News",},{id: "news-i-ll-be-at-egu-in-vienna",
-          title: 'I’ll be at EGU in Vienna!',
+          section: "News",},{id: "news-i-ll-be-at-egu-in-vienna-check-out-my-two-posters-on-spatial-generalization-and-climate-emulators",
+          title: 'I’ll be at EGU in Vienna! Check out my two posters on spatial...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
