@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be at Climate Informatics in Lausanne. I'd be happy to discuss how to make climate model emulators more useful for applied researchers!
+I’ll be at Climate Informatics in Lausanne and would be happy to chat about making climate model emulators more useful in applied research.

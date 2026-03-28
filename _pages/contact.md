@@ -6,4 +6,6 @@ nav: true
 nav_order: 5
 ---
 
-I am always happy to connect for interdisciplinary collaboration, entrepreneurship, or any other topic at the intersection of climate science, AI, or renewable energy systems — please feel free to get in touch to discuss!
+I’m particularly interested in topics at the intersection of machine learning, climate science, and renewable energy systems, and am also increasingly curious about entrepreneurship. In any case, I’m always happy to connect and chat!
+
+If you're interested in working on a thesis or project with me, please send me an <a href="mailto:luca.schmidt@uni-tuebingen.de">email</a>!
