@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Maria-von-Linden-Straße 6, 4.OG</p>
-    <p>40-18/A7 Tübingen, Germany</p>
+    <p>Cluster of Excellence ML</p>
+    <p>MvL6, 4.OG, 40-18/A7</p>
+    <p>Tübingen, Germany</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
