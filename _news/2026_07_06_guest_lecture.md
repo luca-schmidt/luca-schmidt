@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will give a guest lecture on Machine Learning for Climate Science at the Department of Geosciences.
+I will give a guest lecture on <em>Machine Learning for Climate Science</em> at the Department of Geosciences.
