@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Computer Science</p>
+    <p>Dept. of Computer Science</p>
     <p>Maria-von-Linden-Straße 1</p>
      <p>3.OG/ Level 5, A-544</p>
     <p>Tübingen, Germany</p>
